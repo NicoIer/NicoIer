@@ -1,5 +1,11 @@
 ### Hi there 👋
 ![Github Snake Light](https://NicoIer.github.io/NicoIer/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
+![](https://github-readme-stats.vercel.app/api?username=NicoIer&show_icons=true&theme=material-palenight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoIer&layout=compact&theme=material-palenight)
+
 <!--
 **NicoIer/NicoIer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
