@@ -1,6 +1,5 @@
 ### Hi there 👋
-![](https://raw.githubusercontent.com/NicoIer/NicoIer/main/assets/github-contribution-grid-snake.svg)
-
+![Github Snake Light](https://NicoIer.github.io/NicoIer/github-contribution-grid-snake.svg#gh-light-mode-only)
 <!--
 **NicoIer/NicoIer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
