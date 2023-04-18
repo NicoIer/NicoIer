@@ -1,5 +1,4 @@
 ### Hi there 👋
-![Github Snake Light](https://NicoIer.github.io/NicoIer/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
 ![](https://github-readme-stats.vercel.app/api?username=NicoIer&show_icons=true&theme=material-palenight)
