@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![](https://github-readme-stats.vercel.app/api?username=NicoIer&show_icons=true&theme=material-palenight)
+- ![](https://github-readme-stats.vercel.app/api?username=NicoIer&show_icons=true&theme=material-palenight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoIer&layout=compact&theme=material-palenight)
 
