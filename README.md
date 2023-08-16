@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![NicoIer's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicoIer)
+
+![NicoIer's Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username)=NicoIer)
 <!--
 **NicoIer/NicoIer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
