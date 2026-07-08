@@ -9,6 +9,7 @@ Building things with clean logic, sharp tools, and a bias for execution.
 ```txt
 focus   : backend / systems / tooling
 style   : simple, fast, maintainable
+blog    : https://nicoier.github.io
 status  : always compiling
 ```
 
