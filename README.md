@@ -1,17 +1,15 @@
-### Hi there 👋
+## NicoIer
 
-![NicoIer's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoIer&layout=compact&theme=material-palenight)
-<!--
-**NicoIer/NicoIer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```txt
+> code. ship. learn. repeat.
+```
 
-Here are some ideas to get you started:
+Building things with clean logic, sharp tools, and a bias for execution.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```txt
+focus   : backend / systems / tooling
+style   : simple, fast, maintainable
+status  : always compiling
+```
+
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=NicoIer&layout=compact&theme=material-palenight)
